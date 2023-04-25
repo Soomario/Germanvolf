@@ -23,36 +23,36 @@
   status: pass
     
 - summary: |
-    Проверка отображения сайта в последней версии
-  status:
+    Проверка отображения сайта в последней версии Crome
+  status: pass
     
 - summary: |
     Проверка отображения сайта в последней версии Firefox
-  status:
+  status: pass
     
 - summary: |
     Проверка отображения сайта в последней версии Opera
-  status:
+  status: pass
     
 - summary: |
     Проверка сайта на Smasung galxy S22 в браузере Crome
-  status:
+  status: pass
     
 - summary: |
     Проверка сайта на IPhone 14 в браузере Safari
-  status:
+  status: pass 
     
 - summary: |
     Проверка переключения языка сайта
-  status:
+  status: pass
     
 - summary: |
     Проверка коректного перевода сайта
-  status:
+  status: pass
     
 - summary: |
     Проверка коректного перевода сайта
-  status:
+  status: pass
     
 - summary: |
     Проверка добавления товара в корзину

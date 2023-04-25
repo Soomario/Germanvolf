@@ -56,40 +56,40 @@
     
 - summary: |
     Проверка добавления товара в корзину
-  status:
+  status: pass
     
 - summary: |
     Проверка функциональности оформления заказа на странице корзины
-  status:
+  status: pass
     
 - summary: |
     Проверка функциональности очистки товаров из корзины
-  status:
+  status: pass
     
 - summary: |
     Проверка общей стоимости товаров в корзине
-  status:
+  status: pass
     
 - summary: |
     Проверка отображения элементов на странице в браузере Chrome
-  status:    
+  status: pass    
     
 - summary: |
     Проверка отображения элементов на странице в браузере Firefox
-  status:    
+  status: pass    
     
 - summary: |
     Проверка отображения элементов на странице в браузере Safari
-  status:    
+  status: pass
     
 - summary: |
     Проверка отображения страницы на iPhone 12
-  status:    
+  status: pass    
     
 - summary: |
     Проверка отображения страницы на Samsung Galaxy S21
-  status:    
+  status: fail    
     
 - summary: |
     Проверка отображения страницы на Google Pixel 4a
-  status:    
+  status: fail    

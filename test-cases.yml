@@ -99,7 +99,7 @@
     Crome Lattest 109
   steps: 
     - Открываем браузер Crome
-    - Вводим в адресную строку https://hexlet-products-store.vercel.app/
+    - Вводим в адресную строку https://germanvolf.com/
     - жмем "Enter"
     - Просматриваем различные страницы сайта (например, каталог товаров, подробная информация о товаре, корзина и т.д.)
   expected-result: |
@@ -116,7 +116,7 @@
     Firefox Lattest 109
   steps: 
     - Открываем браузер Firefox 
-    - Вводим в адресную строку https://hexlet-products-store.vercel.app/
+    - Вводим в адресную строку https://germanvolf.com/
     - жмем "Enter"
     - Просматриваем различные страницы сайта (например, каталог товаров, подробная информация о товаре, корзина и т.д.)
   expected-result: |
@@ -133,7 +133,7 @@
     Opera Lattest 94
   steps: 
     - Открываем браузер Opera 
-    - Вводим в адресную строку https://hexlet-products-store.vercel.app/
+    - Вводим в адресную строку https://germanvolf.com/
     - жмем "Enter"
     - Просматриваем различные страницы сайта (например, каталог товаров, подробная информация о товаре, корзина и т.д.)
   expected-result: |
@@ -150,7 +150,7 @@
     Smasung galxy S22 Версия андроид 12
   steps: 
     - Открываем браузер Crome 
-    - Вводим в адресную строку https://hexlet-products-store.vercel.app/
+    - Вводим в адресную строку https://germanvolf.com/
     - жмём "Enter"
   expected-result: |
     - Сайт отоброжается
@@ -165,7 +165,7 @@
     IPhone 14 Версия IOS 16
   steps: 
     - Открываем браузер Safari 
-    - Вводим в адресную строку https://hexlet-products-store.vercel.app/
+    - Вводим в адресную строку https://germanvolf.com/
     - жмём "Enter"
   expected-result: |
     - Сайт отоброжается
